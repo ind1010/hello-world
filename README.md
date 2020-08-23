@@ -1,2 +1,3 @@
 # hello-world
-going through hello-world guide
+Going through hello-world guide
+This is my readme
