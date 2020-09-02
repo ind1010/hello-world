@@ -1,3 +1,3 @@
 # hello-world
-Going through hello-world guide
-This is my readme
+Going through hello-world guide\
+This is my first git repo
